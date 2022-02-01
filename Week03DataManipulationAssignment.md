@@ -149,17 +149,17 @@ you use in the following code block.
     done for you.)
 
     -   sex - nominal, no issues noted
-    -   research - nominal
-    -   height - ratio
-    -   weight - ratio
-    -   lvst1 - ordinal
-    -   lvst2 - ordinal
-    -   lvst3 - ordinal
-    -   lvst4 - ordinal
-    -   frst1 - ordinal
-    -   frst2 - ordinal
-    -   frst3 - ordinal
-    -   frst4 - ordinal
+    -   research - nominal, no issues noted
+    -   height - ratio, no issues noted
+    -   weight - ratio, small outliers
+    -   lvst1 - ordinal, no issues noted
+    -   lvst2 - ordinal, no issues noted
+    -   lvst3 - ordinal, no issues noted
+    -   lvst4 - ordinal, no issues noted
+    -   frst1 - ordinal, no issues noted
+    -   frst2 - ordinal, no issues noted
+    -   frst3 - ordinal, no issues noted
+    
 
 ``` r
 view(dataset)
